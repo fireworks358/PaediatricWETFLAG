@@ -14,4 +14,4 @@ Use this service to access:
 </p>
 
 > [!IMPORTANT]
-> Note: SORT paediatric drug calculations are not an approved medical device. Clinicians must make final judgement as to appropriate dosing.
+> Note: uidelines are provided for reference only and may not reflect the most current recommendations. Clinicians must exercise their own judgment for dosing and management. Accuracy is not guaranteed.
