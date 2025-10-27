@@ -19,7 +19,6 @@ export default function(eleventyConfig) {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
-    pathPrefix: "/PaediatricWETFLAG/",
     dir: {
       input: 'docs'
     }
