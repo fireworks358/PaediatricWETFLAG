@@ -14,4 +14,4 @@ Use this service to access:
 </p>
 
 > [!IMPORTANT]
-> Note: uidelines are provided for reference only and may not reflect the most current recommendations. Clinicians must exercise their own judgment for dosing and management. Accuracy is not guaranteed.
+> Note: Guidelines are provided for reference only and may not reflect the most current recommendations. Clinicians must exercise their own judgment for dosing and management. Accuracy is not guaranteed.
